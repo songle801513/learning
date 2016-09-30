@@ -34,7 +34,7 @@ git-repo
 俗话说，实践出真知。现在，我们再练习一遍，先对readme.txt做个修改，比如加上一行内容：
 
 Git is a distributed version control system.
-Git is free software distributed under the GPL.
+Git is a free software ...
 Git has a mutable index called stage.
 git@github.com:songle801513/learning.git
 git@github.com:songle801513/learning.git
